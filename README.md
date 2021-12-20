@@ -109,3 +109,21 @@ this is not due to the script this is due to its end point, when the script hits
 
 
 ```
+<br>
+<br>
+# usages 
+
+```
+basic usage 
+                |=> HTTPS URL                 |=> Domain Name         |=> Base URL or HTTP URL     |=> for every URL downl;oad every HTML index
+                |                             |                       |                            |
+go run main.go -target https://www.scanme.org -domain www.example.org -base http://www.example.com -filedfel
+
+NOTE => -filedfel IS OPTIONAL AND IS NOT NEEDED ( it is suggested cause well-- you are like downloading 800+ HTML files ( cries why ) 
+
+```
+
+
+![demo](demo.png)
+
+

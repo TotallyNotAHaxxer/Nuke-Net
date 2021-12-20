@@ -127,12 +127,14 @@ NOTE => -filedfel IS OPTIONAL AND IS NOT NEEDED ( it is suggested cause well-- y
 <br>
 ALL OUTPUT IS STORED IN THE `OUTPUT` FOLDER
 <br>
+<br>
+```
 |FILE LOCATION |  NAME               | WHAT'S SAVED |
 |--------------|---------------------|--------------|
 |output        | ip-out.txt          | IP OF DOMAIN |
 |output        | out.txt             | URLS FOUND   |
 |output        | tests_pass_list.txt | TEST RESULTS |
-
+```
 ![demo](demo.png)
 
 
